@@ -1,6 +1,6 @@
 # Java OOP Exercises (Bài tập thời sinh viên)
 
-Tập hợp các bài tập Java làm trong quá trình học tại trường — giữ lại làm portfolio. Tất cả đã được biên dịch và chạy thử thành công (OpenJDK 11) trước khi đưa lên đây.
+Tập hợp các bài tập Java làm trong quá trình học tại trường. Tất cả đã được biên dịch và chạy thử thành công (OpenJDK 11) trước khi đưa lên đây.
 
 ## Cấu trúc
 
